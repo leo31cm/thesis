@@ -1,2 +1,3 @@
 # thesis
 Predicting Hotel Ratings from Hotel amenities and other hotel features., Mannheim University (2023)
+This thesis applies machine learning to predict hotel ratings using schema.org markup from online travel agencies and hotel websites. Additionally, the thesis chooses two different kinds of models and compares the outcomes, highlighting the effectiveness of schema.org in organizing data. The study explores the impact of technology on customer experiences and business growth in the hospitality industry, providing valuable insights for hotel owners and researchers seeking to enhance customer satisfaction and performance.
